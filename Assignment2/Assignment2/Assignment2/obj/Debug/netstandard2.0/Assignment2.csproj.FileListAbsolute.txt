@@ -1,0 +1,14 @@
+C:\Users\bowman7677\OneDrive - Saskatchewan Polytechnic\Year 2 Semester 2\COSC295 - Mobile\Assignment 2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.csproj.AssemblyReference.cache
+C:\Users\bowman7677\OneDrive - Saskatchewan Polytechnic\Year 2 Semester 2\COSC295 - Mobile\Assignment 2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bowman7677\OneDrive - Saskatchewan Polytechnic\Year 2 Semester 2\COSC295 - Mobile\Assignment 2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bowman7677\OneDrive - Saskatchewan Polytechnic\Year 2 Semester 2\COSC295 - Mobile\Assignment 2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2\Assignment2\App.xaml.g.cs
+C:\Users\bowman7677\OneDrive - Saskatchewan Polytechnic\Year 2 Semester 2\COSC295 - Mobile\Assignment 2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\bowman7677\OneDrive - Saskatchewan Polytechnic\Year 2 Semester 2\COSC295 - Mobile\Assignment 2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.AssemblyInfo.cs
+C:\Users\bowman7677\OneDrive - Saskatchewan Polytechnic\Year 2 Semester 2\COSC295 - Mobile\Assignment 2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\shane\OneDrive - Saskatchewan Polytechnic\Year 2 Semester 2\COSC295 - Mobile\Assignment 2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.csproj.AssemblyReference.cache
+C:\Users\shane\OneDrive - Saskatchewan Polytechnic\Year 2 Semester 2\COSC295 - Mobile\Assignment 2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\OneDrive - Saskatchewan Polytechnic\Year 2 Semester 2\COSC295 - Mobile\Assignment 2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\shane\OneDrive - Saskatchewan Polytechnic\Year 2 Semester 2\COSC295 - Mobile\Assignment 2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2\Assignment2\App.xaml.g.cs
+C:\Users\shane\OneDrive - Saskatchewan Polytechnic\Year 2 Semester 2\COSC295 - Mobile\Assignment 2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\shane\OneDrive - Saskatchewan Polytechnic\Year 2 Semester 2\COSC295 - Mobile\Assignment 2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.AssemblyInfo.cs
+C:\Users\shane\OneDrive - Saskatchewan Polytechnic\Year 2 Semester 2\COSC295 - Mobile\Assignment 2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.csproj.CoreCompileInputs.cache
