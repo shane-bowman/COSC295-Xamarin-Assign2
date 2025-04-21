@@ -1,38 +1,25 @@
-**COSC295 Xamarin Mobile App**
-**Overview**
-
+COSC295 Xamarin Mobile App
+## Overview
 This Xamarin Mobile App was developed for COSC295 at Saskatchewan Polytechnic as part of my coursework. It’s a cross-platform mobile application designed to track game matches, featuring database management and user-friendly interfaces. The app showcases my skills in mobile development and database integration and is included as an artifact in my TCOM 291 portfolio.
 
-**Features**
+## Features
 
 Settings Page: Reset the database with hardcoded games for quick setup.
-
 Opponent List: Display opponents with context menu deletion, including cascading match removal.
-
 Matches Page: Add matches with game and date pickers for precise tracking.
-
 Games Page: Show match totals for each game, integrated with a local database for dynamic data management.
 
 
-
-**Setup Instructions**
-
+## Setup Instructions
 This project is a Xamarin Forms app hosted on GitHub at https://github.com/shane-bowman/COSC295-Xamarin-Assign2. Follow these steps to run it locally.
-
-
-
-**Prerequisites**
+### Prerequisites
 
 Visual Studio: Version 2019 or 2022 (Community, Professional, or Enterprise) with Xamarin installed.
-
 .NET: Ensure the .NET 6.0 or compatible SDK is installed.
-
 Emulator/Device: An Android or iOS emulator, or a physical device for testing.
-
 Git: To clone the repository.
 
-
-**Steps to Run**
+### Steps to Run
 
 Clone the Repository:
 git clone https://github.com/shane-bowman/COSC295-Xamarin-Assign2.git
@@ -65,19 +52,26 @@ Test features like adding matches, resetting the database, and viewing game tota
 
 
 
-**Dependencies**
+## Dependencies
 
 Xamarin.Forms: Framework for cross-platform UI development.
-
 SQLite: Local database for storing game matches.
-
 Visual Studio: IDE for building and running the app.
-
 .NET: Runtime and SDK for Xamarin development.
 
 
-**Academic Integrity**
-
+## Academic Integrity
 This project is the original work of Shane Bowman, created for COSC295 at Saskatchewan Polytechnic. It has been submitted as part of my TCOM 291 portfolio in compliance with Policy 1211(a) on academic integrity. All code and content are my own, with external libraries (e.g., Xamarin.Forms, SQLite) used as noted.
 
+## Skills Demonstrated
 
+C# for mobile app development.
+Xamarin.Forms for cross-platform UI design.
+Database Management with local storage.
+Asynchronous Programming for data operations.
+UI/UX Design for intuitive user interfaces.
+Problem-Solving and Time Management.
+
+
+## Last Updated
+April 21, 2025
