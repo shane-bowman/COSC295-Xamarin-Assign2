@@ -1,73 +1,83 @@
-CWEB Pokémon Web Application
-Overview
-This Pokémon Web Application was developed for CWEB280 at Saskatchewan Polytechnic as part of our coursework by Shane Bowman and Zach Linzmeyer. It’s a web-based project that allows users to explore Pokémon data, leveraging the PokéAPI for dynamic content. The app includes features like user authentication, session tracking, and form autofill, showcasing our skills in web development and API integration.
-Features
+**COSC295 Xamarin Mobile App**
+**Overview**
 
-Pokémon Data Fetching: Retrieve and display Pokémon lists and detailed attributes (e.g., types, stats) using the PokéAPI.
-Type Filtering: Filter Pokémon by type for a tailored browsing experience.
-Google Authentication: Secure user login via Google OAuth using Passport.js.
-Session-Based Activity Tracking: Log recent user activities (e.g., viewed Pokémon) with session management.
-Cookie-Based Form Autofill: Enhance user experience by auto-filling forms based on previous inputs.
-Image Upload: Allow users to upload images, integrated with session data.
+This Xamarin Mobile App was developed for COSC295 at Saskatchewan Polytechnic as part of my coursework. It’s a cross-platform mobile application designed to track game matches, featuring database management and user-friendly interfaces. The app showcases my skills in mobile development and database integration and is included as an artifact in my TCOM 291 portfolio.
 
-Setup Instructions
-This project is a Node.js web application hosted on GitHub at https://github.com/shane-bowman/CWEB280-Project1-2. Follow these steps to run it locally:
-Prerequisites
+**Features**
 
-Node.js: Version 14.x or higher (includes npm).
+Settings Page: Reset the database with hardcoded games for quick setup.
+
+Opponent List: Display opponents with context menu deletion, including cascading match removal.
+
+Matches Page: Add matches with game and date pickers for precise tracking.
+
+Games Page: Show match totals for each game, integrated with a local database for dynamic data management.
+
+
+
+**Setup Instructions**
+
+This project is a Xamarin Forms app hosted on GitHub at https://github.com/shane-bowman/COSC295-Xamarin-Assign2. Follow these steps to run it locally.
+
+
+
+**Prerequisites**
+
+Visual Studio: Version 2019 or 2022 (Community, Professional, or Enterprise) with Xamarin installed.
+
+.NET: Ensure the .NET 6.0 or compatible SDK is installed.
+
+Emulator/Device: An Android or iOS emulator, or a physical device for testing.
+
 Git: To clone the repository.
-A Google OAuth 2.0 client ID for authentication (set up via Google Cloud Console).
-
-Steps
-
-Clone the Repository:git clone https://github.com/shane-bowman/CWEB280-Project1-2.git
-cd CWEB280-Project1-2
 
 
-Install Dependencies:npm install
+**Steps to Run**
 
-This installs required packages, including express, passport, passport-google-oauth20, and express-session.
-Configure Environment Variables:
-Create a .env file in the project root.
-Add your Google OAuth credentials and session secret:GOOGLE_CLIENT_ID=your-google-client-id
-GOOGLE_CLIENT_SECRET=your-google-client-secret
-SESSION_SECRET=your-session-secret
+Clone the Repository:
+git clone https://github.com/shane-bowman/COSC295-Xamarin-Assign2.git
+cd COSC295-Xamarin-Assign2
 
 
+Open the Solution:
+
+Launch Visual Studio.
+Open the COSC295-Xamarin-Assign2.sln file.
 
 
-Run the Application:node app.js
+Restore NuGet Packages:
+
+In Visual Studio, right-click the solution in Solution Explorer.
+Select "Restore NuGet Packages" to install dependencies like Xamarin.Forms.
 
 
-The app will run on http://localhost:3000 (or the port specified in your code).
+Set Startup Project:
+
+Set the Android or iOS project as the startup project (e.g., COSC295-Xamarin-Assign2.Android).
 
 
-Access the App:
-Open http://localhost:3000 in your browser.
-Log in with Google to explore Pokémon data and features.
+Run the App:
+
+Select an emulator or device.
+Press F5 to build and run the app.
+Test features like adding matches, resetting the database, and viewing game totals.
 
 
 
-Dependencies
 
-Node.js: JavaScript runtime for server-side logic.
-Express: Web framework for Node.js.
-PokéAPI: External API for Pokémon data (pokeapi.co).
-Passport.js: Authentication middleware for Google OAuth.
-Express-Session: Session management for activity tracking.
-dotenv: For environment variable management.
+**Dependencies**
 
-Academic Integrity
-This project is the original work of Shane Bowman and Zach Linzmeyer, created for CWEB280 at Saskatchewan Polytechnic. It has been submitted as part of Shane Bowman’s TCOM 291 portfolio in compliance with Policy 1211(a) on academic integrity. All code and content are our own, with external libraries and APIs (e.g., PokéAPI, Passport.js) used as noted.
-Reflection
-Working on this project with Zach Linzmeyer improved my JavaScript skills, particularly in API integration with PokéAPI. Our collaboration on resolving Passport authentication issues honed my communication skills, ensuring seamless teamwork under tight deadlines. This experience built my resilience and taught me the value of debugging as a team. In the future, I plan to incorporate WebSockets for real-time features, applying the collaboration skills we developed.
-Skills Demonstrated
+Xamarin.Forms: Framework for cross-platform UI development.
 
-JavaScript and Node.js for server-side development.
-API integration with PokéAPI.
-User authentication with Passport.js and Google OAuth.
-Session management and cookie handling.
-UI/UX design for an intuitive user experience.
+SQLite: Local database for storing game matches.
 
-Last Updated
-April 21, 2025
+Visual Studio: IDE for building and running the app.
+
+.NET: Runtime and SDK for Xamarin development.
+
+
+**Academic Integrity**
+
+This project is the original work of Shane Bowman, created for COSC295 at Saskatchewan Polytechnic. It has been submitted as part of my TCOM 291 portfolio in compliance with Policy 1211(a) on academic integrity. All code and content are my own, with external libraries (e.g., Xamarin.Forms, SQLite) used as noted.
+
+
